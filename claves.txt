@@ -1,0 +1,150 @@
+Alexis Garcia Hernandez
+Diabetes
+219756 2508 9530015762
+Rodrigo Perez Martinez
+Tuberculosis
+214706 8349 9530014055
+Francisco Carrasco Guerrero
+Neumococo
+217252 3450 9530027436
+Samuel Guevara Hernandez
+Sida
+201664 8791 9530005963
+Celso Martinez Gonzales
+Gastritis
+212141 1700 9530006464
+David Savedra Perez
+Infeccion estomacal
+215213 8814 9530009551
+Juan Santiago Garcia
+Diarrea cronica
+206629 6565 9530030748
+Javier
+Lupus
+226431 1293 9530020053
+Daniel Hernandez Vazques
+Ebola
+225965 1270 9530018611
+Alejandro Garcia Gil
+Alzheimer
+227916 9038 9530008566
+Guadalupe Martiez Corro
+Gripe
+211202 3040 9530031157
+Luis Ramirez Perez
+Resfriado
+227210 2834 9530015154
+Alexander Morales Herrera
+Gonorrea
+232322 4098 9530011019
+Miguel Salazar Perez
+Caletura
+219929 8002 9530028679
+Sadra Sanchez Peralta
+Poliomelitis
+223970 1330 9530019020
+Abimael Sernas Hernandez
+Diabetes
+226648 10722 9530032750
+Esteban Echeverria Satiago
+Apendicitis
+227384 6629 9530006933
+Alfoso Gaona Cruz
+Cancer de pulmon
+223396 8795 9530013810
+Sebastian Sabino
+Clamidia
+202155 2792 9530021584
+Tyrone Gonzales Olmedo
+Pulmonia
+220934 1114 9530015972
+Yael Osorio Chong
+Gripe Comun
+227180 2132 9530006079
+Gabriel Soto Sernas
+Sida
+201998 3249 9530000849
+Florentina Gallardo Martinez
+Bronquitis
+202172 5898 9530031598
+Gorge Ituarte Santiago
+Dolor de estomago
+226048 9779 9530021066
+Octavio Matus Guevara
+Infeccion nasal
+202540 6251 9530013529
+Andrea Estrada Martinez
+Infeccion en el ojo derecho
+222427 3484 9530016282
+Perla Meza Martinez
+Anomalia craneofaciales
+210534 6194 9530017383
+Amaury Estrada Perez
+Infeccion en la piel
+210672 1820 9530031359
+Roberto Cirigo Perez
+Tos
+223502 1812 9530020493
+Daniela Claudio Ramirez
+Tuberculosis aguda
+212984 5348 9530025350
+Hideaki Perez Garcia
+Sida
+210347 5497 9530021552
+Martin Pozos Martinez
+Diarrea
+221931 8266 9530032147
+Leoardo Sanchez Toledo
+Resfriado
+214159 5915 9530017953
+Jacinto Lopez Martinez
+Infeccion estomacal
+213515 1177 9530010560
+Jovana Mendez Garcia
+Salmonesis
+220217 10452 9530011467
+Claudia Perez Sosa
+Sindrome de colon
+207321 3364 9530005527
+Paola Vazques Perez
+calculos biliares
+209837 4113 9530009323
+Tomas Ramirez Garcia
+Hepatitis B
+202234 1781 9530010578
+Jeremy Santibanez Perez
+Cirrosis
+222633 1150 9530012900
+Ramon Garcia Marquez
+Pancreatitis
+232229 7355 9530012070
+Gloria Mendez Perez
+Diabetes
+222663 10254 9530004756
+Uziel Toledo Ramiez
+Hernia de hiato
+207037 8641 9530032459
+Rene Higuita Garcia
+Enfermedad de Crohn
+210163 3335 9530026159
+Javier Hernandez Garcia
+Hemorroides
+203174 4920 9530018355
+Joselin Escobedo Garcia
+Dolor de estomago
+214196 9564 9530028816
+Carla Perez Jimenez
+Sindrome del intestino
+212839 8645 9530028724
+Santiago Hernandez Perez
+Celiaquia
+201013 2749 9530026752
+Daniel Jimenez Garcia
+Polipos intestinales
+222156 8537 9530030485
+Sandra Garcia Hernandez
+Cancer colorrectal
+231457 1824 9530025820
+Ulises Ramirez Garcia
+Diverticulosis
+212082 10389 9530016053
